@@ -13,7 +13,7 @@ Step 3. launch winscp and kitty at the same time.
 
 -on kitty type in the pharmacy you need to be editied and click on their opie session, grab their Ip address and load into their opie.
 
--on winscp put in their ip and port number 7868 and login like you would on kitty.
+-on winscp put in their ip and port number and login like you would on kitty.
 
 
 
