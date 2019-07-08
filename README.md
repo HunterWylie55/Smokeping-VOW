@@ -11,3 +11,6 @@ Step 4. Extract the zip file into the "/" directory in winscp. (if you are in th
 Step 5. open the smokeping folder you just extracted and highlight all the contents in the folder and right click > properties > and give Owner R,W,X privelages. Do NOT touch the other privelages.
 Step 6. Open kitty with the opie you had previously loaded and then type     cd /smokeping     then    ./smokeping.sh
 This will install smokeping automatically. Refer to my issues tab to know what to keep an eye out for and how to fix it.
+
+
+If you find any issues let me know and I will add them to the bug list.
