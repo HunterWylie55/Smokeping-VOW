@@ -2,7 +2,7 @@
 Smokeping install for VOW
 
 
-Step 1.  Download zip file from Github or find it in Z:\Support Documents
+Step 1.  Download zip file from Github or find it in Z:\Support Documents\smokeping script
 
 
 Step 2. Exctract the zip file to an easily accessible location on your machine.
